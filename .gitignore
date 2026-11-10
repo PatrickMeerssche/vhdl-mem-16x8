@@ -1,0 +1,18 @@
+# Vivado generated directories and temporary files
+vivado/projeto/memoria_ram.cache/
+vivado/projeto/memoria_ram.hw/
+vivado/projeto/memoria_ram.ip_user_files/
+vivado/projeto/memoria_ram.runs/
+vivado/projeto/memoria_ram.sim/
+vivado/projeto/*.jou
+vivado/projeto/*.log
+
+# GHDL & simulation waves
+*.ghw
+*.o
+*.cf
+
+# OS & Zip archives
+.DS_Store
+Thumbs.db
+169512_169505.zip
